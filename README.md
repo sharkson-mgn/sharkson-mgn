@@ -5,6 +5,9 @@
 - 📫 How to reach me ...? Can You find me on Jabber: mgn@jix.im
 - 👍 I’m currently learning React.js.
 
+# PROGRAMMING?!
+![PROGRAMMING?! I CAN DO THIS ALL DAY!](https://sharkson.eu/img/icandothisallday.gif "PROGRAMMING?! I CAN DO THIS ALL DAY!")
+
 <!---
 maganiczny/maganiczny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

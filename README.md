@@ -8,6 +8,9 @@
 # PROGRAMMING?!
 ![PROGRAMMING?! I CAN DO THIS ALL DAY!](https://sharkson.eu/img/icandothisallday.gif "PROGRAMMING?! I CAN DO THIS ALL DAY!")
 
+# I like memes.
+You see, also I like word games, some sentences perfectly describe and hitly summing certain situations or mainly the world.
+
 <!---
 maganiczny/maganiczny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

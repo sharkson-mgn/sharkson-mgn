@@ -9,6 +9,8 @@
 # PROGRAMMING?!
 ![PROGRAMMING?! I CAN DO THIS ALL DAY!](https://sharkson.eu/img/icandothisallday.gif "PROGRAMMING?! I CAN DO THIS ALL DAY!")
 
+(https://imgur.com/gallery/zausc)
+
 You see, also I like word games, some sentences perfectly describe and hitly summing certain situations or mainly the world.
 
 <!---

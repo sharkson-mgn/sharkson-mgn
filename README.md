@@ -1,3 +1,4 @@
+# Hello World.
 - 👋 Hi, I’m @maganiczny
 - 👀 I’m interested in programming and general IT, software and hardware.
 - 🌱 I’m currently learning programming, not only PHP (but I want to by advanced), I know too JS, HTML and CSS. I'am maintly full stack dev but I know how works c++, Assembler, Bash/Shell, Perl, Java, Delphi and others languages. Show me language or library, give me a minute and I build something in this space. Besides, it administers its own server
@@ -8,7 +9,6 @@
 # PROGRAMMING?!
 ![PROGRAMMING?! I CAN DO THIS ALL DAY!](https://sharkson.eu/img/icandothisallday.gif "PROGRAMMING?! I CAN DO THIS ALL DAY!")
 
-# I like memes.
 You see, also I like word games, some sentences perfectly describe and hitly summing certain situations or mainly the world.
 
 <!---

@@ -1,4 +1,9 @@
-# Hello World. I'am going CRAZY => [parseInt(null),null*1,0==null,0==null*1]
+ I'am going CRAZY.js
+ ```
+  [parseInt(null), null\*1, 0==null, 0==null\*1]
+ ```
+
+# Hello World.
 - 👋 Hi, I’m @maganiczny
 - 👀 I’m interested in programming and general IT, software and hardware.
 - 🌱 I’m currently learning programming (still, for over ten years), not only PHP ~~(but I want to by advanced)~~ (because I know in PHP what I need to know), I know too JS, HTML and CSS. I'am maintly full stack (web)dev but I know how works c++, Assembler, Bash/Shell, Perl, Java, Delphi and others languages. Show me language or library, give me a minute and I build something in this space. Besides, it administers its own server => this is knowledge about docker (compose), many distribution of linux and their difference structures, this is knowledge about services and administrative of server system.

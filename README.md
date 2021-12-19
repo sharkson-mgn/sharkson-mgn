@@ -1,9 +1,12 @@
- I'am going CRAZY.js 👍 ```[ isNaN(null), parseInt(null), null * 1, 0 == null, 0 == null * 1 ]```
- So... is "NaN"? No...
- So I can parseInt? No... because is NaN!.
- Hmmm 0 is equal null? No, right. 
- In this way, null * 1 is 0!
- Finally, 0 == null is false but 0 == null * 1 is true while null is not a NaN but parse as NaN. WELCOME!
+ #I'am going CRAZY.js 👍
+ ```[ isNaN(null), parseInt(null), null * 1, 0 == null, 0 == null * 1 ]```
+ 
+So... is "NaN"? No...
+So I can parseInt? No... because is NaN!.
+Hmmm 0 is equal null? No, is right. 
+Continuing, null * 1 is 0!
+Finally, 0 == null is false but 0 == null * 1 is true while null is not a NaN but parse as NaN. WELCOME!
+
 
 # Hello World.
 - 👋 Hi, I’m @maganiczny

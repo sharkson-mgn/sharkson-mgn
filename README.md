@@ -1,7 +1,4 @@
- I'am going CRAZY.js
- ```
-  [parseInt(null), null\*1, 0==null, 0==null\*1]
- ```
+ I'am going CRAZY.js 👍 ```[ parseInt(null), null * 1, 0 == null, 0 == null * 1 ]```
 
 # Hello World.
 - 👋 Hi, I’m @maganiczny

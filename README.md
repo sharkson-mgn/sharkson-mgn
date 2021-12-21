@@ -9,7 +9,7 @@
 - 👍 I’m currently learning React.js + Redux.
 
 # PROGRAMMING?!
-![PROGRAMMING?! I CAN DO THIS ALL DAY!](https://sharkson.eu/img/icandothisallday.gif "PROGRAMMING?! I CAN DO THIS ALL DAY!")
+<p align="center"><img src="https://sharkson.eu/img/icandothisallday.gif" alt="PROGRAMMING?! I CAN DO THIS ALL DAY!"/></p>
 
 (https://imgur.com/gallery/zausc)
 

@@ -7,7 +7,9 @@
 <!-- 🌱 Every day I try to learn something new. I know PHP (oop), JS (with jQuery, basics of nodejs and react), so HTML and CSS too. I'am maintly full stack (web)dev but I know how works c++, Assembler, Bash/Shell, Perl, Java, Delphi and others languages. Show me language or library, give me a minute and I build something in this space. Besides, it administers its own server => this is knowledge about docker (compose), many distribution of linux and their difference structures, this is knowledge about services and administrative of server system. I have been dealing with this for over 5 years.-->
 - 💞️ I’m looking to collaborate on all who need worker's and not only. 
 - 📫 How to reach me ...? Can You find me on Jabber: mgn@jix.im and [linkedin](https://www.linkedin.com/in/robert-%C5%82uczak-694974228/)
-- 👍 I’m currently build own cms based on nodejs and express
+
+- 👍 ~~I’m currently build own cms based on nodejs and express~~
+- 👍 I got bored of nodejs, blog (cms) has basic functionality, now I learning to laravel!
 
 # PROGRAMMING?!
 <p align="center"><img src="https://sharkson.eu/img/icandothisallday.gif" alt="PROGRAMMING?! I CAN DO THIS ALL DAY!"/></p>

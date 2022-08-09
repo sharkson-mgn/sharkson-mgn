@@ -12,7 +12,7 @@
 - 👍 I got bored of nodejs, blog (cms) has basic functionality, now I learning to laravel!
 
 # PROGRAMMING?!
-<p align="center"><img src="https://sharkson.eu/img/icandothisallday.gif" alt="PROGRAMMING?! I CAN DO THIS ALL DAY!"/></p>
+<p align="center"><img src="https://github.com/sharkson-mgn/sharkson-mgn/blob/97565772b2f13ad2ef5a21132ee600901ecaf7a7/I%20can%20do%20this%20all%20day.%20-%20Imgur.gif" alt="PROGRAMMING?! I CAN DO THIS ALL DAY!"/></p>
 
 (https://imgur.com/gallery/zausc)
 

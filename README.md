@@ -4,7 +4,7 @@
 
 👋 Hi, I’m @sharkson
 
-![Badge!](https://www.codewars.com/users/sharkson-mgn/badges/micro)
+[ ![Badge!](https://www.codewars.com/users/sharkson-mgn/badges/micro) ](https://www.codewars.com/users/sharkson-mgn)
 
 Programming is my passion. Every day i trying to learn something new. I tried my strong on many areas.
 
@@ -18,7 +18,7 @@ You find me on:
 * [LinkedIn](https://www.linkedin.com/in/robert-luczak-sharkson/)
 
 # PROGRAMMING?!
-![This is an image](https://raw.githubusercontent.com/sharkson-mgn/sharkson-mgn/2cdf37e34a4883bb9ae3688728beb2175af08f76/I%20can%20do%20this%20all%20day.%20-%20Imgur.gif)
+![I can do this all day!](/I%20can%20do%20this%20all%20day.%20-%20Imgur.gif?raw=true)
 
 (https://imgur.com/gallery/zausc)
 

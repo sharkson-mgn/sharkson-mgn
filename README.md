@@ -13,6 +13,10 @@ Generally I proggramed in PHP and JavaScript. I have well skills in HTML and CSS
 Not only programing. Also sysops. I am a administrator of small webserver. It makes no difference to me. Fedora or Debian. Host system or dockerized.
 
 
+You find me on:
+* [Sharkson.eu](https://sharkson.eu/)
+* [LinkedIn](https://www.linkedin.com/in/robert-luczak-sharkson/)
+
 # PROGRAMMING?!
 ![This is an image](https://raw.githubusercontent.com/sharkson-mgn/sharkson-mgn/2cdf37e34a4883bb9ae3688728beb2175af08f76/I%20can%20do%20this%20all%20day.%20-%20Imgur.gif)
 

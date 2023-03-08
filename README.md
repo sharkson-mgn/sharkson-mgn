@@ -4,7 +4,7 @@
 
 👋 Hi, I’m @sharkson
 
-[ ![Badge!](https://www.codewars.com/users/sharkson-mgn/badges/micro) ](https://www.codewars.com/users/sharkson-mgn)
+[ ![Badge!](https://www.codewars.com/users/sharkson-mgn/badges/micro) ](https://www.codewars.com/users/sharkson-mgn) | [My gists](https://gist.github.com/sharkson-mgn)
 
 Programming is my passion. Every day i trying to learn something new. I tried my strong on many areas.
 

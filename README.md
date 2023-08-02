@@ -22,4 +22,11 @@ You find me on:
 
 (https://imgur.com/gallery/zausc)
 
+
+How long I can?
+
+![obraz](https://github.com/sharkson-mgn/sharkson-mgn/assets/62204514/ef2eab1e-2a5e-46a7-bd1f-7230a8927ed2)
+
+
+
 You see, also I like word games, some sentences perfectly describe and hitly summing certain situations or mainly the world.

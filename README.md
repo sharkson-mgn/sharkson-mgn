@@ -4,13 +4,11 @@
 
 👋 Hi, I’m @sharkson
 
-[ ![Badge!](https://www.codewars.com/users/sharkson-mgn/badges/micro) ](https://www.codewars.com/users/sharkson-mgn) | [My gists](https://gist.github.com/sharkson-mgn)
-
 Programming is my passion. Every day i trying to learn something new. I tried my strong on many areas.
 
-Generally I proggramed in PHP and JavaScript. I have well skills in HTML and CSS. It not is all - i had contact with all from basic languages like shell programing, ae bat or sh, through Pascal (including Object Pascal), a little bit of Java, C++, maybe also Lua scripting or Python. I have projects, big and small in many areas. I created projects in Laravel and React. Currently I gain knowledge in Symfony and Vue.
+I am a fullstack developer specializing in frontend. It not is all - i had contact with all from basic languages like shell programing, ae bat or sh, through Pascal (including Object Pascal), a little bit of Java, C++, maybe also Lua scripting or Python. I have projects, big and small in many areas. I created projects in Laravel and React. Currently I gain knowledge in Symfony and Vue.
 
-Not only programing. Also sysops. I am a administrator of small webserver. It makes no difference to me. Fedora or Debian. Host system or dockerized.
+Not only programing. Also sysops/sysadmin. It makes no difference to me. Fedora or Debian. Host system or dockerized.
 
 
 You find me on:

@@ -2,7 +2,7 @@
 
 # Hello World.
 
-👋 Hi, I’m @sharkson
+👋 Hi, I’m @rluczak
 
 Programming is my passion. Every day i trying to learn something new. I tried my strong on many areas.
 
@@ -12,8 +12,8 @@ Not only programing. Also sysops/sysadmin. It makes no difference to me. Fedora 
 
 
 You find me on:
-* [Sharkson.eu](https://sharkson.eu/)
-* [LinkedIn](https://www.linkedin.com/in/robert-luczak-sharkson/)
+* [rluczak.dev](https://rluczak.dev/)
+* [LinkedIn](https://www.linkedin.com/in/robert-luczak-dev/)
 
 # PROGRAMMING?!
 ![I can do this all day!](/I%20can%20do%20this%20all%20day.%20-%20Imgur.gif?raw=true)
